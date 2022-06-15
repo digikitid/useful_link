@@ -1,7 +1,9 @@
 # Useful Link
-## Colors
+## Colors and Backgrounds
 [noeldelgado.github.io/shadowlord](https://noeldelgado.github.io/shadowlord/) - color shade generator.\
 [colormind.io](http://colormind.io/) - color scheme generator.\
+[coolbackgrounds.io](https://coolbackgrounds.io/) - cool backgrounds.\
+[fecolormatrix.com](https://fecolormatrix.com/) - svg color matrix mixer.\
 
 ## Icons and Illustrations
 [css.gg](https://css.gg/) - open source css, svg and figma ui icons.\
@@ -19,6 +21,8 @@
 ## UI/UX
 [medium.com/insightdesign](https://medium.com/insightdesign) - design tutorial.\
 [marvelapp.com/styleguide](https://marvelapp.com/styleguide/) - styleguide.\
+[tabbied.com/select-artwork](https://tabbied.com/select-artwork) - art design.\
+[pattern.monster](https://pattern.monster/) - customizable svg patterns for your projects.\
 
 ## Other
 [render.com](https://render.com/) - static hosting website.\
