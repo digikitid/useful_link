@@ -17,6 +17,7 @@
 [iconoir.com](https://iconoir.com/) - biggest open source icons libraries.\
 [boxicons.com](https://boxicons.com/) - simple open source icons.\
 [remixicon.com](https://remixicon.com/) - simply delightful icon system.\
+[svgrepo.com](https://svgrepo.com/) - 500.000+ Open-licensed SVG Vector and Icons.\
 
 ## Illustrations
 [pattern.monster](https://pattern.monster/) - customizable svg patterns for your projects.\
